@@ -7,6 +7,6 @@
 
 import Foundation
 
-print("Hola, mundo!")
+print("Hello, world!")
 
 
